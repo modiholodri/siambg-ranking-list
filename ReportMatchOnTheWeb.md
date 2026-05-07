@@ -60,5 +60,3 @@ Other settings stored are...
 - The state of sections, i.e. if they are expanded or collapsed.
 - The selected ranking list.
 - The selected interval.
-
-> Use Matches Played and Daily in the Ranking Lists section to help find out which results are missing. Keep also in mind that some players have played extra non-tournament matches before, during or after the tournament.
